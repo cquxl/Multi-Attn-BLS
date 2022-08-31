@@ -1,0 +1,6 @@
+colors =[]
+markerfacecolor='#222831')
+ markerfacecolor='#6a2c70'
+ markerfacecolor='#b83b5e'
+ markerfacecolor='#f08a5d'
+ markerfacecolor='#f9ed69'
